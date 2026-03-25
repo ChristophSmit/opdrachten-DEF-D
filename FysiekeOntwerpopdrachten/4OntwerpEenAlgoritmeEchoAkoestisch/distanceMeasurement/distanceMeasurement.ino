@@ -24,7 +24,7 @@
 
 //the calibration constants
 #define alpha 0.0347
-#define beta -1.0
+#define beta -0.2826
 
 void setup() {
   Serial.begin (9600);
